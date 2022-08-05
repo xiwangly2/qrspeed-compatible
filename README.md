@@ -5,8 +5,8 @@
 
 感谢以下小伙伴提供的方法或建议：
 
-[萌新杰少](https://github.com/1250422131)
-[ggzzll](https://github.com/ggzzll)
-[ ]()
+- [萌新杰少](https://github.com/1250422131)
+- [ggzzll](https://github.com/ggzzll)
+- [ ]()
 
 以及一些不知道如何称呼、如何链接到TA的伙伴
